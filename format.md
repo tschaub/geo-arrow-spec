@@ -219,7 +219,7 @@ Logical representation:
 Physical representation (buffers):
 
 * Coordinates: `[0.0, 0.0, 0.0, 1.0, 0.0, 2.0, 1.0, 0.0, 1.0, 1.0, 2.0, 0.0, 2.0, 1.0, 2.0, 2.0, 3.0, 0.0, 3.0, 1.0]`
-* Part offsets (linestrings): `[0, 3, 5, 8, 10]`
+* Part offsets (linestrings): `[0, 3, 6, 9, 12]`
 * Geometry offsets: `[0, 1, 3, 4]`
 
 
